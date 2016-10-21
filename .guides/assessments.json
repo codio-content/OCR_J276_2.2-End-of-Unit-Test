@@ -1,0 +1,390 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1253262472",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "State the variable that are of the following data types:",
+   "points": "1",
+   "showValues": false,
+   "text": "String  = <<<name>>>\nBoolean = <<<entry>>>\nReal    = <<<newNumber>>>\nInteger\t= <<<number>>>",
+   "tokens": {
+    "blank": [
+     "name",
+     "entry",
+     "newNumber",
+     "number"
+    ],
+    "text": [
+     "String  = ",
+     0,
+     "\nBoolean = ",
+     0,
+     "\nReal    = ",
+     0,
+     "\nInteger\t= ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2593873293",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "State the line number on which a condition controlled iteration loop starts:",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<2>>>",
+   "tokens": {
+    "blank": [
+     "2"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3446486742",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "State the line number on which a condition controlled iteration loop ends:",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<8>>>",
+   "tokens": {
+    "blank": [
+     "8"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2843417519",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "State the line number containing a selection construct:",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<5>>>",
+   "tokens": {
+    "blank": [
+     "5"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1772027310",
+  "source": {
+   "name": "Question5",
+   "showName": false,
+   "instructions": "State a line number containing two relational operators:",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<5>>>",
+   "tokens": {
+    "blank": [
+     "5"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1128637393",
+  "source": {
+   "name": "Question6",
+   "showName": false,
+   "instructions": "State a line number in which a Boolean operator is used:",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<5>>>",
+   "tokens": {
+    "blank": [
+     "5"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3231224264",
+  "source": {
+   "name": "Question7",
+   "showName": false,
+   "instructions": "State what would be returned from the command `string.length`: ",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<28>>>",
+   "tokens": {
+    "blank": [
+     "28"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2349035093",
+  "source": {
+   "name": "Question8",
+   "showName": false,
+   "instructions": "State the index position of the ‘d’:\t",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<13>>>",
+   "tokens": {
+    "blank": [
+     "13"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3037170422",
+  "source": {
+   "name": "Question9",
+   "showName": false,
+   "instructions": "State what would be returned from the command `string.substring(16, 4)`: ",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<f un>>>",
+   "tokens": {
+    "blank": [
+     "f un"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3523751204",
+  "source": {
+   "name": "Question10",
+   "showName": false,
+   "instructions": "State the number returned from each of the following commands:",
+   "points": "1",
+   "showValues": false,
+   "text": "`print(gameHours[3, 0])` = <<<0>>>\n`print(gameHours[6, 1]`  = <<<3>>>",
+   "tokens": {
+    "blank": [
+     "0",
+     "3"
+    ],
+    "text": [
+     "`print(gameHours[3, 0])` = ",
+     0,
+     "\n`print(gameHours[6, 1]`  = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-390676286",
+  "source": {
+   "name": "Question11",
+   "showName": false,
+   "instructions": "On which day did she spend the most hours playing computer games: ",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<Saturday>>>",
+   "tokens": {
+    "blank": [
+     "Saturday"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3623879314",
+  "source": {
+   "name": "Question12",
+   "showName": false,
+   "instructions": "```sql\nSELECT * FROM tblStock\nWHERE Supplier LIKE “Hill farm”;\n``` ",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<3>>>\n",
+   "tokens": {
+    "blank": [
+     "3"
+    ],
+    "text": [
+     0,
+     "\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-150249485",
+  "source": {
+   "name": "Question13",
+   "showName": false,
+   "instructions": "```sql\nSELECT * FROM tblStock\nWHERE Price < £1;\n```",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<6>>>",
+   "tokens": {
+    "blank": [
+     "6"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-157539173",
+  "source": {
+   "name": "Question14",
+   "showName": false,
+   "instructions": "```sql\nSELECT * FROM tblStock\nWHERE Price < £1 AND Quantity left  >= 40;\n```",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<2>>>",
+   "tokens": {
+    "blank": [
+     "2"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3848610452",
+  "source": {
+   "name": "Question15",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Sub programs are self-contained modules of <<<code>>> that can be <<<called>>> by the main program when they are needed. There are two types of sub programs, <<<functions>>> which return a value to the <<<main program>>> and <<<procedures>>> which do not.",
+   "tokens": {
+    "blank": [
+     "code",
+     "called",
+     "functions",
+     "main program",
+     "procedures"
+    ],
+    "text": [
+     "Sub programs are self-contained modules of ",
+     0,
+     " that can be ",
+     0,
+     " by the main program when they are needed. There are two types of sub programs, ",
+     0,
+     " which return a value to the ",
+     0,
+     " and ",
+     0,
+     " which do not."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-674725876",
+  "source": {
+   "name": "Question16",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Advantages of using sub programs are it is more <<<efficient>>> as the <<<code>>> can be used many times in the <<<program>>> and it is easier to debug as each one can be inspected independently.",
+   "tokens": {
+    "blank": [
+     "efficient",
+     "code",
+     "program"
+    ],
+    "text": [
+     "Advantages of using sub programs are it is more ",
+     0,
+     " as the ",
+     0,
+     " can be used many times in the ",
+     0,
+     " and it is easier to debug as each one can be inspected independently."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1097200824",
+  "source": {
+   "name": "Question17",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Values are passed from the main program as <<<arguments>>> which are stored within the <<<parameters>>> of the sub program. Variables used within the sub program are called <<<local>>> variables to distinguish them from the <<<global>>> variables used in the main program.",
+   "tokens": {
+    "blank": [
+     "arguments",
+     "parameters",
+     "local",
+     "global"
+    ],
+    "text": [
+     "Values are passed from the main program as ",
+     0,
+     " which are stored within the ",
+     0,
+     " of the sub program. Variables used within the sub program are called ",
+     0,
+     " variables to distinguish them from the ",
+     0,
+     " variables used in the main program."
+    ]
+   }
+  }
+ }
+]
