@@ -5,7 +5,7 @@
   "source": {
    "name": "Question1",
    "showName": false,
-   "instructions": "State the variable that are of the following data types:",
+   "instructions": "1. State the variable that are of the following data types:",
    "points": "1",
    "showValues": false,
    "text": "String  = <<<name>>>\nBoolean = <<<entry>>>\nReal    = <<<newNumber>>>\nInteger\t= <<<number>>>",
@@ -35,7 +35,7 @@
   "source": {
    "name": "Question2",
    "showName": false,
-   "instructions": "State the line number on which a condition controlled iteration loop starts:",
+   "instructions": "2. State the line number on which a condition controlled iteration loop starts:",
    "points": "1",
    "showValues": false,
    "text": "<<<2>>>",
@@ -55,7 +55,7 @@
   "source": {
    "name": "Question3",
    "showName": false,
-   "instructions": "State the line number on which a condition controlled iteration loop ends:",
+   "instructions": "3. State the line number on which a condition controlled iteration loop ends:",
    "points": "1",
    "showValues": false,
    "text": "<<<8>>>",
@@ -75,7 +75,7 @@
   "source": {
    "name": "Question4",
    "showName": false,
-   "instructions": "State the line number containing a selection construct:",
+   "instructions": "4. State the line number containing a selection construct:",
    "points": "1",
    "showValues": false,
    "text": "<<<5>>>",
@@ -95,7 +95,7 @@
   "source": {
    "name": "Question5",
    "showName": false,
-   "instructions": "State a line number containing two relational operators:",
+   "instructions": "5. State a line number containing two relational operators:",
    "points": "1",
    "showValues": false,
    "text": "<<<5>>>",
@@ -115,7 +115,7 @@
   "source": {
    "name": "Question6",
    "showName": false,
-   "instructions": "State a line number in which a Boolean operator is used:",
+   "instructions": "6. State a line number in which a Boolean operator is used:",
    "points": "1",
    "showValues": false,
    "text": "<<<5>>>",
@@ -135,7 +135,7 @@
   "source": {
    "name": "Question7",
    "showName": false,
-   "instructions": "State what would be returned from the command `string.length`: ",
+   "instructions": "7. State what would be returned from the command `string.length`: ",
    "points": "1",
    "showValues": false,
    "text": "<<<28>>>",
@@ -155,7 +155,7 @@
   "source": {
    "name": "Question8",
    "showName": false,
-   "instructions": "State the index position of the ‘d’:\t",
+   "instructions": "8. State the index position of the ‘d’:\t",
    "points": "1",
    "showValues": false,
    "text": "<<<13>>>",
@@ -175,7 +175,7 @@
   "source": {
    "name": "Question9",
    "showName": false,
-   "instructions": "State what would be returned from the command `string.substring(16, 4)`: ",
+   "instructions": "9. State what would be returned from the command `string.substring(16, 4)`: ",
    "points": "1",
    "showValues": false,
    "text": "<<<f un>>>",
@@ -195,7 +195,7 @@
   "source": {
    "name": "Question10",
    "showName": false,
-   "instructions": "State the number returned from each of the following commands:",
+   "instructions": "10. State the number returned from each of the following commands:",
    "points": "1",
    "showValues": false,
    "text": "`print(gameHours[3, 0])` = <<<0>>>\n`print(gameHours[6, 1]`  = <<<3>>>",
@@ -219,7 +219,7 @@
   "source": {
    "name": "Question11",
    "showName": false,
-   "instructions": "On which day did she spend the most hours playing computer games: ",
+   "instructions": "11. On which day did she spend the most hours playing computer games: ",
    "points": "1",
    "showValues": false,
    "text": "<<<Saturday>>>",
@@ -239,7 +239,7 @@
   "source": {
    "name": "Question12",
    "showName": false,
-   "instructions": "```sql\nSELECT * FROM tblStock\nWHERE Supplier LIKE “Hill farm”;\n``` ",
+   "instructions": "12.\n```sql\nSELECT * FROM tblStock\nWHERE Supplier LIKE “Hill farm”;\n``` ",
    "points": "1",
    "showValues": false,
    "text": "<<<3>>>\n",
@@ -260,7 +260,7 @@
   "source": {
    "name": "Question13",
    "showName": false,
-   "instructions": "```sql\nSELECT * FROM tblStock\nWHERE Price < £1;\n```",
+   "instructions": "13.\n```sql\nSELECT * FROM tblStock\nWHERE Price < £1;\n```",
    "points": "1",
    "showValues": false,
    "text": "<<<6>>>",
@@ -280,7 +280,7 @@
   "source": {
    "name": "Question14",
    "showName": false,
-   "instructions": "```sql\nSELECT * FROM tblStock\nWHERE Price < £1 AND Quantity left  >= 40;\n```",
+   "instructions": "14.\n```sql\nSELECT * FROM tblStock\nWHERE Price < £1 AND Quantity left  >= 40;\n```",
    "points": "1",
    "showValues": false,
    "text": "<<<2>>>",
@@ -300,7 +300,7 @@
   "source": {
    "name": "Question15",
    "showName": false,
-   "instructions": "**Select correct answers from the available list**",
+   "instructions": "15. **Select correct answers from the available list**",
    "points": "1",
    "showValues": true,
    "text": "Sub programs are self-contained modules of <<<code>>> that can be <<<called>>> by the main program when they are needed. There are two types of sub programs, <<<functions>>> which return a value to the <<<main program>>> and <<<procedures>>> which do not.",
@@ -334,7 +334,7 @@
   "source": {
    "name": "Question16",
    "showName": false,
-   "instructions": "**Select correct answers from the available list**",
+   "instructions": "16. **Select correct answers from the available list**",
    "points": "1",
    "showValues": true,
    "text": "Advantages of using sub programs are it is more <<<efficient>>> as the <<<code>>> can be used many times in the <<<program>>> and it is easier to debug as each one can be inspected independently.",
@@ -362,7 +362,7 @@
   "source": {
    "name": "Question17",
    "showName": false,
-   "instructions": "**Select correct answers from the available list**",
+   "instructions": "17. **Select correct answers from the available list**",
    "points": "1",
    "showValues": true,
    "text": "Values are passed from the main program as <<<arguments>>> which are stored within the <<<parameters>>> of the sub program. Variables used within the sub program are called <<<local>>> variables to distinguish them from the <<<global>>> variables used in the main program.",
